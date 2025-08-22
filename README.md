@@ -9,9 +9,8 @@
 -----------------------------------------
 
 <p align = "center">
-  <img height="300" alt="image" src="https://github.com/user-attachments/assets/8988de5b-48f3-4ea4-8ef9-aa57e2d04d14" />
+  <img height="250" alt="image" src="https://github.com/user-attachments/assets/e64b01e0-0588-4520-90e7-7f6127a945b0" style="border-radius:10px;" />
 </p>
-
 
 -----------------------------------------
 
